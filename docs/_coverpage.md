@@ -1,4 +1,4 @@
-![logo](https://docsify.js.org/_media/icon.svg)
+<img src="http://www.liyuze.work/favicon.ico" alt="X-π学院" width="120" height="120" align="bottom"　border-radius:2em/>
 
 # [X-π学院](http://www.liyuze.work/)
 
@@ -9,4 +9,4 @@
 * 中间件：    RabbitMQ、Redis、Mongodb、Elasticsearch、elk等
 
 [GitHub](https://github.com/Ezuy-Lee)
-[Get Started](#quick-start)
+[Get Started](https://github.com/Ezuy-Lee/Rainze-Java-PIM#quick-start)
